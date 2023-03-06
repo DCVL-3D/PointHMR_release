@@ -1,5 +1,3 @@
-###### *Note: We follow the installation guideline provided by [MeshTransformer/docs/INSTALL.md](https://github.com/microsoft/MeshTransformer/blob/main/docs/INSTALL.md)*
-
 ## Installation
 
 Our codebase is developed based on Ubuntu 18.04 and Pytorch framework.
