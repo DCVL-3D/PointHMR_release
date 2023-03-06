@@ -14,7 +14,7 @@ Our codebase is developed based on Ubuntu 18.04 and Pytorch framework.
 
 ### Installation with conda
 
-'''bash
+```bash
 # We suggest to create a new conda environment with python version 3.8
 conda create --name PHMR python=3.8
 
@@ -37,4 +37,4 @@ python setup.py build develop
 # Install requirements
 pip install -r requirements
 pip install ./manopth/.
-'''
+```
