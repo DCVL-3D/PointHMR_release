@@ -27,6 +27,11 @@ conda install pytorch==1.7.1 torchvision==0.8.2 cudatoolkit=10.2 -c pytorch
 # CUDA 11.1
 conda install pytorch==1.8.0 torchvision==0.9.0 cudatoolkit=11.1 -c pytorch -c conda-forge
 
+# Install apex
+git clone https://github.com/NVIDIA/apex.git
+cd apex
+python setup.py install --cuda_ext --cpp_ext
+
 # Install PointHMR
 git clone --recursive https://github.com/DCVL-3D/PointHMR_release
 cd PointHMR_release
@@ -36,8 +41,5 @@ python setup.py build develop
 pip install -r requirements
 pip install ./manopth/.
 
-# Install apex
-git clone https://github.com/NVIDIA/apex.git
-cd apex
-python setup.py install --cuda_ext --cpp_ext
+
 ```
