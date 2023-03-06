@@ -9,8 +9,8 @@ IEEE Conference on Computer Vision and Pattern Recognition 2023
 - Our progressive attention masking scheme helps the model efficiently deal with local vertex-to-vertex relations even under complicated poses and occlusions.
     <p align="center"><img src='https://github.com/DCVL-3D/PointHMR_release/blob/main/documents/fig1.png'></p>
 
-## Installation
+<!-- ## Installation
 ## Training
 ## Evaluation
 ## Demo
-## Contribution
+## Contribution -->
