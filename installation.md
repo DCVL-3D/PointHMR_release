@@ -37,4 +37,9 @@ python setup.py build develop
 # Install requirements
 pip install -r requirements
 pip install ./manopth/.
+
+# Install apex
+git clone https://github.com/NVIDIA/apex.git
+cd apex
+python setup.py install --cuda_ext --cpp_ext
 ```
