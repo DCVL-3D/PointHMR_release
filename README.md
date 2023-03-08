@@ -2,7 +2,7 @@
 
 This repository is a official Pytorch implementation of the paper [**"Sampling is Matter: Point-guided 3D Human Mesh Reconstruction"**](https://) <br>
 Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonjun Kim (Corresponding Author) <br>
-* equally contributed
+\* equally contributed
 :maple_leaf: ***IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)***, Jun. 2023. :maple_leaf:
 
 ## Overview :eyes:
