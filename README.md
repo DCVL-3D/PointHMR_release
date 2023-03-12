@@ -14,7 +14,7 @@ Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonj
 ## How to use it
 
 ### Try on Google Colab
-It allows you to run the project in the cloud, free of charge. 
+It allows you to run the project in the cloud, free of charge.  </br>
 Let's give the prepared [Google Colab demo](https://colab.research.google.com/) a try.
 
 ### Installation
@@ -23,7 +23,7 @@ Please refer to [Installation.md](documents/installation.md) for installation.
 
 ### Demo
 
-We provide demo codes to run end-to-end inference on the test images.
+We provide demo codes to run end-to-end inference on the test images. </br>
 Check [Demo.md](docs/Demo.md) for details
 
 ### Experiments
@@ -35,15 +35,11 @@ This work was supported by Institute of Information \& communications Technology
 
 Our implementation and experiments are built on top of open-source GitHub repositories. We thank all the authors who made their code public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
 
-[microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) 
-
-[microsoft/MeshGraphormer](https://github.com/microsoft/MeshGraphormer) 
-
-[postech-ami/FastMETRO](https://github.com/postech-ami/FastMETRO) 
-
-[Arthur151/ROMP](https://github.com/Arthur151/ROMP) 
-
-[hongsukchoi/Pose2Mesh_RELEASE](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
+[microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer)  </br>
+[microsoft/MeshGraphormer](https://github.com/microsoft/MeshGraphormer)  </br>
+[postech-ami/FastMETRO](https://github.com/postech-ami/FastMETRO)  </br>
+[Arthur151/ROMP](https://github.com/Arthur151/ROMP)  </br>
+[hongsukchoi/Pose2Mesh_RELEASE](https://github.com/hongsukchoi/Pose2Mesh_RELEASE) </br>
 
 
 ## Citation
