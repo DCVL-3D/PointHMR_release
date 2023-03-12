@@ -44,6 +44,17 @@ This work was supported by Institute of Information \& communications Technology
 [hongsukchoi/Pose2Mesh_RELEASE](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
 
 Our implementation and experiments are built on top of open-source GitHub repositories. We thank all the authors who made their code public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
+
+## Citation
+```bibtex
+@InProceedings{PointHMR,
+author = {Jeonghwan, Kim and Mi-Gyeong, Gwon and Hyunwoo, Park and Hyukmin, Kwon and Gi-Mun, Um and Wonjun , Kim},
+title = {{Sampling is Matter}: Point-guided 3D Human Mesh Reconstruction},
+booktitle = {CVPR},
+month = {June},
+year = {2023}
+}
+```
 <!--
 ## License
  -->
