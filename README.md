@@ -21,10 +21,21 @@ Let's give the prepared [Google Colab demo](https://colab.research.google.com/) 
 
 Please refer to [Installation.md](documents/Installation.md) for installation.
 
+### Download
+
+We provide guidelines to download pre-trained models and datasets. 
+
+Please check [Download.md](documents/Download.md) for more information.
+
 ### Demo
 
 We provide demo codes to run end-to-end inference on the test images. </br>
-Check [Demo.md](docs/Demo.md) for details
+Check [Demo.md](documents/Demo.md) for details
+
+| Model                               | Dataset   | PA-MPJPE | Link            |
+| ----------------------------------- | --------- | -------- | --------------- |
+| FastMETRO-S-R50                     | Human3.6M | 32.9     | [Download]()|
+| FastMETRO-S-R50                     | 3DPW      | 44.9     | [Download]()|
 
 ### Experiments
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
