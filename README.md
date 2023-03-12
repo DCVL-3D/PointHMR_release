@@ -34,8 +34,8 @@ Check [Demo.md](documents/Demo.md) for details
 
 | Model                        | Dataset   | MPJPE | PA-MPJPE | Link            |
 | ---------------------------- | --------- | ----- | -------- | --------------- |
-| PointHMR                     | Human3.6M |48.3   | 32.9     | [Download]()|
-| PointHMR                     | 3DPW      |73.9   | 44.9     | [Download]()|
+| PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
+| PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
 
 ### Experiments
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
