@@ -24,7 +24,7 @@ Please refer to [Installation.md](documents/installation.md) for installation.
 ### Demo
 
 We provide demo codes to run end-to-end inference on the test images.
-Check [demo.md](docs/demo.md) for details
+Check [Demo.md](docs/Demo.md) for details
 
 ### Experiments
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND.
