@@ -5,13 +5,13 @@ Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonj
 \* equally contributed <br>
 :maple_leaf: ***IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)***, Jun. 2023. :maple_leaf:
 
-<p align="center"><img src='documents/fig7.png'></p>
+<p align="center"><img src='documents/fig1.jpg'></p>
 
 ## Overview :eyes:
 - We propose to utilize the correspondence between encoded features and vertex positions, which are projected into the 2D space, via our point-guided feature sampling scheme. By explicitly indicating such vertex-relevant features to the transformer encoder, coordinates of the 3D human mesh are accurately estimated.
 - Our progressive attention masking scheme helps the model efficiently deal with local vertex-to-vertex relations even under complicated poses and occlusions.
-    
-    <p align="center"><img src='documents/fig2.png'></p>
+  
+    <p align="center"><img src='documents/fig2.jpg'></p>
 
 
 ## How to use it
