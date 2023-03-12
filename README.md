@@ -56,7 +56,7 @@ Our implementation and experiments are built on top of open-source GitHub reposi
 ## Citation
 ```bibtex
 @InProceedings{PointHMR,
-author = {Kim, Jeonghwan and Gwon, Mi-Gyeong and Park, Hyunwoo and Kwon, Hyukmin and Um, Gi-Mun and Kim , Wonjun},
+author = {Kim, Jeonghwan and Gwon, Mi-Gyeong and Park, Hyunwoo and Kwon, Hyukmin and Um, Gi-Mun and Kim, Wonjun},
 title = {{Sampling is Matter}: Point-guided 3D Human Mesh Reconstruction},
 booktitle = {CVPR},
 month = {June},
