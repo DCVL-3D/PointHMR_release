@@ -23,8 +23,7 @@ Please refer to [Installation.md](documents/Installation.md) for installation.
 
 ### Download
 
-We provide guidelines to download pre-trained models and datasets. 
-
+We provide guidelines to download pre-trained models and datasets. </br>
 Please check [Download.md](documents/Download.md) for more information.
 
 ### Demo
