@@ -19,7 +19,7 @@ Let's give the prepared [Google Colab demo](https://colab.research.google.com/) 
 
 ### Installation
 
-Please refer to [Installation.md](documents/installation.md) for installation.
+Please refer to [Installation.md](documents/Installation.md) for installation.
 
 ### Demo
 
