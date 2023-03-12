@@ -19,15 +19,26 @@ Let's give the prepared [Google Colab demo](https://colab.research.google.com/) 
 
 ### Installation
 
-Please refer to [install.md](documents/installation.md) for installation.
+Please refer to [Installation.md](documents/installation.md) for installation.
 
 ### Demo
 
-Currently, we support processing images, video or real-time webcam.    
-Pelease refer to [config_guide.md](docs/config_guide.md) for configurations.   
-ROMP can be called as a python lib inside the python code, jupyter notebook, or from command line / scripts, please refer to [Google Colab demo](https://colab.research.google.com/drive/1oz9E6uIbj4udOPZvA1Zi9pFx0SWH_UXg) for examples.
+We provide demo codes to run end-to-end inference on the test images.
+Check [demo.md](docs/demo.md) for details
 
-<!-- ## Installation
-## Evaluation
-## Demo
-## Contribution -->
+### Experiments
+We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND.
+Please check [Experiments.md](documents/Experiments.md) for more information.
+
+## Acknowledgments
+This work was supported by Institute of Information \& communications Technology Planning \& Evaluation(IITP) grant funded by the Korea government(MSIT) (2021-0-02084, eXtended Reality and Volumetric media generation and transmission technology for immersive experience sharing in noncontact environment with a Korea-EU international cooperative research).
+
+[microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) 
+[microsoft/MeshGraphormer](https://github.com/microsoft/MeshGraphormer) 
+[postech-ami/FastMETRO](https://github.com/postech-ami/FastMETRO) 
+[Arthur151/ROMP](https://github.com/Arthur151/ROMP) 
+
+Our implementation and experiments are built on top of open-source GitHub repositories. We thank all the authors who made their code public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
+<!--
+## License
+ -->
