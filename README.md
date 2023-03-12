@@ -33,6 +33,8 @@ Please check [Experiments.md](documents/Experiments.md) for more information.
 ## Acknowledgments
 This work was supported by Institute of Information \& communications Technology Planning \& Evaluation(IITP) grant funded by the Korea government(MSIT) (2021-0-02084, eXtended Reality and Volumetric media generation and transmission technology for immersive experience sharing in noncontact environment with a Korea-EU international cooperative research).
 
+Our implementation and experiments are built on top of open-source GitHub repositories. We thank all the authors who made their code public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
+
 [microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) 
 
 [microsoft/MeshGraphormer](https://github.com/microsoft/MeshGraphormer) 
@@ -43,7 +45,6 @@ This work was supported by Institute of Information \& communications Technology
 
 [hongsukchoi/Pose2Mesh_RELEASE](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
 
-Our implementation and experiments are built on top of open-source GitHub repositories. We thank all the authors who made their code public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
 
 ## Citation
 ```bibtex
