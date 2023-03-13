@@ -39,17 +39,26 @@ Check [Demo.md](documents/Demo.md) for details
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
 Please check [Experiments.md](documents/Experiments.md) for more information.
  -->
+
 ## Results
 
-<!-- This repository provides several experimental results: -->
 ### Quantitative result
 | Model                        | Dataset   | MPJPE | PA-MPJPE | Checkpoint            |
 | ---------------------------- | --------- | ----- | -------- | --------------- |
 | PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
 | PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
 
-### Qualitative result
+### Qualitative results
+
+##### Results on 3DPW dataset:
+
+<p align="center"><img src='documents/fig3.jpg'></p>
+
+Results on COCO dataset:
+
 <p align="center"><img src='documents/fig4.jpg'></p>
+
+
 
 
 
