@@ -14,7 +14,7 @@ Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonj
 <p align="center"><img src='documents/fig2.jpg'></p>
 
 
-## How to use it (The code will be released after the project paper is published)
+<!-- ## How to use it (The code will be released after the project paper is published)
 
 ### Try on Google Colab
 It allows you to run the project in the cloud, free of charge.  </br>
@@ -29,11 +29,6 @@ Please refer to [Installation.md](documents/Installation.md) for installation.
 We provide guidelines to download pre-trained models and datasets. </br>
 Please check [Download.md](documents/Download.md) for more information.
 
-| Model                        | Dataset   | MPJPE | PA-MPJPE | Link            |
-| ---------------------------- | --------- | ----- | -------- | --------------- |
-| PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
-| PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
-
 ### Demo
 
 We provide demo codes to run end-to-end inference on the test images. </br>
@@ -43,11 +38,17 @@ Check [Demo.md](documents/Demo.md) for details
 
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
 Please check [Experiments.md](documents/Experiments.md) for more information.
-
+ -->
 ## Results
 
-This repository provides several experimental results:
+<!-- This repository provides several experimental results: -->
+### Quantitative result
+| Model                        | Dataset   | MPJPE | PA-MPJPE | Checkpoint            |
+| ---------------------------- | --------- | ----- | -------- | --------------- |
+| PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
+| PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
 
+### Qualitative result
 <p align="center"><img src='documents/fig4.jpg'></p>
 
 
