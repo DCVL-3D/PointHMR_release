@@ -59,7 +59,7 @@ Results on COCO dataset:
 <p align="center"><img src='documents/fig4.jpg'></p>
 
 
-
+<!-- 
 ## License
 
 This research code is released under the MIT license. Please see [LICENSE](documents/LICENSE.md) for more information.
@@ -67,6 +67,7 @@ This research code is released under the MIT license. Please see [LICENSE](docum
 SMPL and MANO models are subject to **Software Copyright License for non-commercial scientific research purposes**. Please see [SMPL-Model License](https://smpl.is.tue.mpg.de/modellicense.html) and [MANO License](https://mano.is.tue.mpg.de/license.html) for more information.
 
 We use submodules from third party ([hassony2/manopth](https://github.com/hassony2/manopth)). Please see [NOTICE](documents/NOTICE.md) for more information.
+-->
 
 ## Acknowledgments
 This work was supported by Institute of Information \& communications Technology Planning \& Evaluation(IITP) grant funded by the Korea government(MSIT) (2021-0-02084, eXtended Reality and Volumetric media generation and transmission technology for immersive experience sharing in noncontact environment with a Korea-EU international cooperative research).
