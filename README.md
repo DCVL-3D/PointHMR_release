@@ -14,9 +14,9 @@ Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonj
 <p align="center"><img src='documents/fig2.jpg'></p>
 
 
-<!-- ## How to use it (The code will be released after the project paper is published)
-
-### Try on Google Colab
+## How to use it
+_This section will be released soon!_
+<!-- ### Try on Google Colab
 It allows you to run the project in the cloud, free of charge.  </br>
 Let's give the prepared [Google Colab demo](https://colab.research.google.com/) a try.
 
