@@ -14,7 +14,7 @@ Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonj
 <p align="center"><img src='documents/fig2.jpg'></p>
 
 
-## How to use it
+## How to use it (The code will be released after the project paper is published)
 
 ### Try on Google Colab
 It allows you to run the project in the cloud, free of charge.  </br>
@@ -29,19 +29,28 @@ Please refer to [Installation.md](documents/Installation.md) for installation.
 We provide guidelines to download pre-trained models and datasets. </br>
 Please check [Download.md](documents/Download.md) for more information.
 
-### Demo
-
-We provide demo codes to run end-to-end inference on the test images. </br>
-Check [Demo.md](documents/Demo.md) for details
-
 | Model                        | Dataset   | MPJPE | PA-MPJPE | Link            |
 | ---------------------------- | --------- | ----- | -------- | --------------- |
 | PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
 | PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
 
+### Demo
+
+We provide demo codes to run end-to-end inference on the test images. </br>
+Check [Demo.md](documents/Demo.md) for details
+
 ### Experiments
+
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
 Please check [Experiments.md](documents/Experiments.md) for more information.
+
+## Results
+
+This repository provides several experimental results:
+
+<p align="center"><img src='documents/fig4.jpg'></p>
+
+
 
 ## Acknowledgments
 This work was supported by Institute of Information \& communications Technology Planning \& Evaluation(IITP) grant funded by the Korea government(MSIT) (2021-0-02084, eXtended Reality and Volumetric media generation and transmission technology for immersive experience sharing in noncontact environment with a Korea-EU international cooperative research).
