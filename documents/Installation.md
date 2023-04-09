@@ -32,6 +32,10 @@ git clone https://github.com/NVIDIA/apex.git
 cd apex
 python setup.py install --cuda_ext --cpp_ext
 
+# Install OpenDR
+pip install matplotlib
+pip install git+https://gitlab.eecs.umich.edu/ngv-python-modules/opendr.git
+
 # Install PointHMR
 git clone --recursive https://github.com/DCVL-3D/PointHMR_release
 cd PointHMR_release
