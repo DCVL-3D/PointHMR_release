@@ -1,5 +1,7 @@
 # PointHMR
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sampling-is-matter-point-guided-3d-human-mesh-1/3d-human-pose-estimation-on-3dpw)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-3dpw?p=sampling-is-matter-point-guided-3d-human-mesh-1)
+
 This repository is a official Pytorch implementation of the paper [**"Sampling is Matter: Point-guided 3D Human Mesh Reconstruction"**](https://arxiv.org/abs/2304.09502v1) <br>
 Jeonghwan Kim*, Mi-Gyeong Gwon*, Hyunwoo Park, Hyukmin Kwon, Gi-Mun Um, and Wonjun Kim (Corresponding Author) <br>
 \* equally contributed <br>
