@@ -13,10 +13,6 @@ Our codebase is developed based on Ubuntu 18.04 and Pytorch framework.
 ### Installation with conda
 
 ```bash
-# clone the repository
-git clone https://github.com/DCVL-3D/PointHMR_release
-cd PointHMR_release
-
 # We suggest to create a new conda environment with python version 3.8
 conda create --name PHMR python=3.8
 
@@ -35,6 +31,7 @@ conda install pytorch==1.8.0 torchvision==0.9.0 cudatoolkit=11.1 -c pytorch -c c
 git clone https://github.com/NVIDIA/apex.git
 cd apex
 python setup.py install --cuda_ext --cpp_ext
+cd ..
 
 # Install OpenDR
 pip install matplotlib
