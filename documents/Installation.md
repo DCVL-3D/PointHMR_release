@@ -42,7 +42,7 @@ cd PointHMR_release
 python setup.py build develop
 
 # Install requirements
-pip install -r requirements
+pip install -r requirements.txt
 pip install ./manopth/.
 
 
