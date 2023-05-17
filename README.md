@@ -35,15 +35,14 @@ Please refer to [Installation.md](documents/Installation.md) for installation.
 We provide guidelines to download pre-trained models and datasets. </br>
 Please check [Download.md](documents/Download.md) for more information.
 
-### Demo
-
-We provide demo codes to run end-to-end inference on the test images. </br>
-Check [Demo.md](documents/Demo.md) for details
-
 ### Experiments
 
 We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and FreiHAND. </br>
+
+We provide demo codes to run end-to-end inference on the test images. </br>
+
 Please check [Experiments.md](documents/Experiments.md) for more information.
+
 
 ## :page_with_curl: Results 
 
