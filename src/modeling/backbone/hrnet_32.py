@@ -1,3 +1,14 @@
+"""
+----------------------------------------------------------------------------------------------
+PointHMR Official Code
+Copyright (c) Deep Computer Vision Lab. (DCVL.) All Rights Reserved
+Licensed under the MIT license.
+----------------------------------------------------------------------------------------------
+Modified from ROMP (https://github.com/Arthur151/ROMP)
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved [see https://github.com/Arthur151/ROMP/blob/master/LICENSE.md for details]
+----------------------------------------------------------------------------------------------
+"""
+
 import os,sys
 import torch
 import torch.nn as nn
