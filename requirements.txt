@@ -1,0 +1,9 @@
+yacs==0.1.8
+cython
+opencv-python
+tqdm
+nltk
+chumpy
+boto3
+requests
+numpy==1.23.1
