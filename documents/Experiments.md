@@ -1,12 +1,14 @@
+## Experiments
+
+Our PointHMR can be run by following command
+
 ### Pretraining
 
 ```
 sh script/pretrain.sh
 ```
 
-
-
-### finetuning
+### Finetuning
 
 ```
 sh script/finetuning.sh
