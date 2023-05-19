@@ -1,4 +1,4 @@
-<h2 align="center">Sampling is Matter: Point-guided 3D Human Mesh Reconstruction</h2>
+<h1 align="center">Sampling is Matter: Point-guided 3D Human Mesh Reconstruction</h1>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sampling-is-matter-point-guided-3d-human-mesh-1/3d-human-pose-estimation-on-3dpw)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-3dpw?p=sampling-is-matter-point-guided-3d-human-mesh-1)
 
