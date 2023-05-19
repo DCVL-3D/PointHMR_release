@@ -20,4 +20,4 @@ sh script/demo.sh
 
 
 
-After running, it will generate the results in the folder of 'image_output_dir' ![0001](0001.jpg)
+After running, it will generate the results in the folder of 'image_output_dir' </br> ![0001](0001.jpg)
