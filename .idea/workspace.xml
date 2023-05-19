@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c17b3faf-c328-4e68-bdba-cfe18e9e7ff6" name="Default Changelist" comment="" />
+    <list default="true" id="c17b3faf-c328-4e68-bdba-cfe18e9e7ff6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/demo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/demo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/evaluation_3dpw.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/evaluation_3dpw.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/evaluation_h36m.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/evaluation_h36m.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/finetuning.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/finetuning.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/pretrain.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/pretrain.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +41,23 @@
       <option name="presentableId" value="Default" />
       <updated>1684306684242</updated>
       <workItem from="1684306689239" duration="957000" />
+      <workItem from="1684479935147" duration="112000" />
+      <workItem from="1684480065391" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

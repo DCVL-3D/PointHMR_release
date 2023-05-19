@@ -1,6 +1,6 @@
 python -m torch.distributed.launch --nproc_per_node=2 \
           src/tools/run_phmr_bodymesh.py \
-          --val_yaml ../dataset/3dpw/test_has_gender.yaml \
+          --val_yaml ./dataset/3dpw/test_has_gender.yaml \
           --num_workers 4 \
           --per_gpu_train_batch_size 12 \
           --per_gpu_eval_batch_size 12 \
@@ -9,6 +9,6 @@ python -m torch.distributed.launch --nproc_per_node=2 \
           --dropout 0.1 \
           --num_train_epochs 10 \
           --run_eval_only \
-          --resume_checkpoint ./checkpoint_3dpw.bin
+          --resume_checkpoint ./PointHMR_3dpw.bin
 
 
