@@ -55,7 +55,7 @@ Please check [Experiments.md](documents/Experiments.md) for more information.
 ### Quantitative result
 | Model                        | Dataset   | MPJPE | PA-MPJPE | Checkpoint            |
 | ---------------------------- | --------- | ----- | -------- | --------------- |
-| PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download]()|
+| PointHMR-HR32                | Human3.6M |48.3   | 32.9     | [Download](https://drive.google.com/file/d/1Np8SAEFEou2HcfDYH7b1a4rjLI1GnwVQ/view?usp=sharing)|
 | PointHMR-HR32                | 3DPW      |73.9   | 44.9     | [Download]()|
 
 ### Qualitative results
